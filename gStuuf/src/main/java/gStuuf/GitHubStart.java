@@ -6,6 +6,9 @@ public class GitHubStart {
 		int x =5;
 		int w =3;
 		int y =6;
+		int h;
+		int g;
+		
 
 	}
 
